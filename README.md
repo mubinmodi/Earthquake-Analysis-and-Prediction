@@ -2,9 +2,6 @@
 
 Earthquakes, sudden bursts of energy from the Earth's crust, can cause widespread damage and disrupt lives. While they're naturally occurring, predicting them could significantly reduce their impact. Traditionally, we only reacted to earthquakes after they happened, focusing on helping those affected. But now, advancements in earthquake science and data analysis offer a glimmer of hope: the possibility of forecasting seismic activity. By studying past earthquakes and identifying patterns, scientists can build more accurate models to predict future ones. This proactive approach empowers authorities to take preventive measures. They can issue warnings, design earthquake-resistant structures, and prepare for emergencies. Ultimately, predicting earthquakes could save lives and protect livelihoods from the devastating consequences of these natural disasters.
 
-## Richter Scale
-
-The Richter scale, developed by Charles F. Richter in 1935, is a logarithmic scale used to measure the magnitude of earthquakes. The magnitude quantifies the energy released at the earthquake's source. Each whole number increase on the Richter scale represents a tenfold increase in measured amplitude of seismic waves and approximately 31.6 times more energy release. For example, an earthquake with a magnitude of 6.0 is 10 times more powerful than one with a magnitude of 5.0. The Richter scale provides a standardized way to communicate the size and impact of seismic events, serving as a crucial tool for seismologists and emergency responders in assessing earthquake severity.
 
 ## Motivation
 
